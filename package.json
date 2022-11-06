@@ -1,0 +1,17 @@
+{
+  "name": "biscuits-eater",
+  "version": "1.0.0",
+  "description": "Best bot ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TurboVadim",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.1",
+    "discord.js": "^14.6.0",
+    "node-fetch": "^2.6.7"
+  }
+}
